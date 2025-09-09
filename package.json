@@ -1,0 +1,37 @@
+{
+    "name": "omarchy-matte-black",
+    "displayName": "Omarchy Matte Black",
+    "description": "An Omarchy matte black theme for Visual Studio Code.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.103.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "omarchy",
+        "matte black",
+        "black",
+        "hc",
+        "contrast"
+    ],
+    "publisher": "rikkarth",
+    "homepage": "https://rikkarth.com",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rikkarth/omarchy-matte-black.git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Omarchy Matte Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/omarchy-matte-black-color-theme.json"
+            }
+        ]
+    },
+    "license": "MIT"
+}
