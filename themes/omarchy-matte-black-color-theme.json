@@ -5,6 +5,8 @@
     "author": "Rikkarth",
     "colorSpaceName": "sRGB",
     "colors": {
+        "focusBorder": "#f59e0b",
+
         "activityBar.activeFocusBorder": "#ffd76d",
         "activityBar.border": "#161821",
         "activityBar.background": "#121212",
@@ -17,17 +19,16 @@
         "editor.foreground": "#bebebe",
         "editorLineNumber.foreground": "#8a8a8d",
         "editorLineNumber.activeForeground": "#f59e0b",
-
         "editor.selectionBackground": "#333333cc",
         "editor.selectionHighlightBackground": "#f59e0b33",
         "editorCursor.foreground": "#eaeaea",
-
         "editor.lineHighlightBackground": "#1a1a1a",
         "editorIndentGuide.background1": "#333333",
         "editorIndentGuide.activeBackground1": "#8a8a8d",
 
         "sideBar.background": "#121212",
         "sideBar.foreground": "#8a8a8d",
+        "sideBarTitle.foreground": "#bebebe",
         "sideBarSectionHeader.foreground": "#f59e0b",
         "sideBarSectionHeader.background": "#1a1a1a",
 
@@ -40,6 +41,10 @@
         "titleBar.activeForeground": "#bebebe",
         "titleBar.inactiveBackground": "#121212",
         "titleBar.inactiveForeground": "#333333",
+
+        "list.focusOutline": "#9e6708",
+        "list.activeSelectionBackground": "#9e6708",
+        "list.highlightForeground": "#f59e0b",
 
         "panel.background": "#121212",
         "panel.border": "#8a8a8d",
@@ -73,8 +78,6 @@
         "terminal.ansiYellow": "#b91c1c",
         "terminal.ansiBlue": "#e68e0d",
         "terminal.ansiMagenta": "#D35F5F",
-
-        "sideBarTitle.foreground": "#bebebe",
         "terminal.ansiCyan": "#bebebe",
         "terminal.ansiWhite": "#bebebe",
         "terminal.ansiBrightBlack": "#8a8a8d",

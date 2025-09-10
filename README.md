@@ -29,6 +29,13 @@ Omarchy Matte Black is a high contrast theme for Visual Studio Code, designed to
 - **Vibrant Syntax Highlighting**: Makes your code pop with clear, distinct colors.
 - **Optimized for Focus**: Reduces eye strain during long coding sessions.
 
+
+## Wallpaper
+
+![ship at sea wallpaper](assets/0-ship-at-sea.jpg)
+
+Download the wallpaper [here](assets/0-ship-at-sea.jpg).
+
 ---
 
 <p align="center">
