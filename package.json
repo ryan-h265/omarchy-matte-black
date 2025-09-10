@@ -33,5 +33,6 @@
             }
         ]
     },
+    "icon": "./assets/omarchy-icon.png",
     "license": "MIT"
 }
