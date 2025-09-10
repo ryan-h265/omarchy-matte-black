@@ -6,7 +6,7 @@
   <b>An Omarchy high power, high contrast theme for VS Code </b>
 </p>
 <p align="center">
-  <a href="#about">About</a> • <a href="https://omarchy.org/">Omarchy</a> • <a href="#features">Features</a>
+  <a href="#about">About</a> • <a href="https://omarchy.org/">Omarchy</a> • <a href="#features">Features</a> • <a href="https://marketplace.visualstudio.com/items?itemName=rikkarth.omarchy-matte-black">VS Code Marketplace</a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/license/1yib/vsc-bundle?color=A3BE8C&style=flat-square" alt="License"/>
