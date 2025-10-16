@@ -2,6 +2,12 @@
 
 All notable changes to the "omarchy-matte-black" extension will be documented in this file.
 
+# [0.0.3] - 16-10-2025
+
+## Added
+
+- Sage green color scheme
+
 # [0.0.2] - 10-09-2025
 
 ## Added
