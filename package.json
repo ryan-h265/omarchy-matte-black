@@ -30,6 +30,11 @@
                 "label": "Omarchy Matte Black",
                 "uiTheme": "vs-dark",
                 "path": "./themes/omarchy-matte-black-color-theme.json"
+            },
+            {
+                "label": "Omarchy Matte Black Sage",
+                "uiTheme": "vs-dark",
+                "path": "./themes/omarchy-matte-black-sage-color-theme.json"
             }
         ]
     },
